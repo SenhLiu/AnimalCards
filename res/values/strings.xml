@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Cards</string>
+    <string name="title_activity_camera">Animal Cards</string>
+    <string name="title_activity_readmore">Animal Cards</string>
+    <string name="about">About App</string>
+    <string name="pick">Pick Card</string>
+    <string name="title_pick">Pick Card</string>
+    <string name="content_desc_overlay">overlay</string>
+    <string name="scan_button">Scan Barcode</string>
+    <string name="sound_button">Play Sound</string>
+    <string name="read_button">Read More</string>
+    <string name="next_button">Next</string>    
+    <string name="about_button">About</string>
+    <string name="button_capture_text">SCAN</string>    
+    <string name="about_dialog_title">About Animal Cards</string>    
+    <string name="about_dialog_msg">
+Animal Cards Barcode Scanner\n
+Version 1.0\n
+Copyright (c) 2015 Senh Liu\n
+\n
+DISCLAIMER: This is a personal project and is not part of the official Countdown or Woolworths Super Animal Cards promotion.\n
+\n
+Reference information from:\n
+Wikipedia, the free encyclopedia\n
+http://en.wikipedia.org/\n
+\n
+Some sound files from:\n
+U.S. Fish and Wildlife Service.\n
+http://www.fws.gov/video/sound.htm\n
+\n
+Additional sound files from:\n
+Mike Koenig, Caroline Ford\n
+http://soundbible.com\n
+\n
+    </string>
+    <string name="about_dialog_ok">OK</string>
+</resources>

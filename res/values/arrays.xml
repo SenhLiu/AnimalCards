@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>    
+    <string-array name="pick_card_items">
+        <item>1, Black Mamba</item>
+        <item>2, Cheetah</item>
+        <item>3, Brown Hare</item>
+        <item>4, African Lion</item>
+        <item>5, Peregrine Falcon</item>
+        <item>6, Mantis Shrimp</item>
+        <item>7, Springbok</item>
+        <item>8, White-Throated Needletail</item>
+        <item>9, Dragonfly</item>
+        <item>10, Blue Wildebeest</item>
+        <item>11, Free-Tailed Bat</item>
+        <item>12, Warthog</item>
+        <item>13, African Buffalo</item>
+        <item>14, Honey Badger</item>
+        <item>15, Greater One-Horned Rhinoceros</item>
+        <item>16, Emperor Penguin</item>
+        <item>17, Banded Mongoose</item>
+        <item>18, Bar-Tailed Godwit</item>
+        <item>19, Koala</item>
+        <item>20, Bactrian Camel</item>
+        <item>21, Boreal Chorus Frog</item>
+        <item>22, Monarch Butterfly</item>
+        <item>23, Pronghorn</item>
+        <item>24, Black Woodpecker</item>
+        <item>25, Prairie Rattlesnake</item>
+        <item>26, Leopard Seal</item>
+        <item>27, Southern Corroboree Frog</item>
+        <item>28, Bornean Slow Loris</item>
+        <item>29, Oyster Toadfish</item>
+        <item>30, Saw-Scaled Viper</item>
+        <item>31, Strawberry Poison-Frog</item>
+        <item>32, Saltwater Crocodile</item>
+        <item>33, Southern Cassowary</item>
+        <item>34, Common Hippopotamus</item>
+        <item>35, Anopheles Mosquito</item>
+        <item>36, African Wild Dog</item>
+        <item>37, Bornean Orangutan</item>
+        <item>38, Woodpecker Finch</item>
+        <item>39, Green Tree-Frog</item>
+        <item>40, Brown Rat</item>
+        <item>41, New Caledonian Crow</item>
+        <item>42, Sea Otter</item>
+        <item>43, American Alligator</item>
+        <item>44, Egyptian Vulture</item>
+        <item>45, Chipmunk</item>
+        <item>46, Acorn Woodpecker</item>
+        <item>47, Chimpanzee</item>
+        <item>48, American Beaver</item>
+        <item>49, Grizzly Bear</item>
+        <item>50, Tasmanian Devil</item>
+        <item>51, Killer Whale</item>
+        <item>52, Bengal Tiger</item>
+        <item>53, Komodo Dragon</item>
+        <item>54, Fossa</item>
+        <item>55, Monkey-Eating Eagle</item>
+        <item>56, European Wolf</item>
+        <item>57, Polar Bear</item>
+        <item>58, Spotted Hyena</item>
+        <item>59, Africanized Honey Bee</item>
+        <item>60, Wolverine</item>
+        <item>61, Babirusa</item>
+        <item>62, Shoebill Stork</item>
+        <item>63, Streaked Tenrec</item>
+        <item>64, Eastern Tube-Nosed Bat</item>
+        <item>65, Pygmy Three-Toed Sloth</item>
+        <item>66, Proboscis Monkey</item>
+        <item>67, Nine-Banded Armadillo</item>
+        <item>68, Narwhal</item>
+        <item>69, Marabou Stork</item>
+        <item>70, Turtle Frog</item>
+        <item>71, Southern Elephant-Seal </item>
+        <item>72, Saiga Antelope</item>
+        <item>73, Green Heron</item>
+        <item>74, Gaboon Viper</item>
+        <item>75, Asian Koel</item>
+        <item>76, Snow Leopard</item>
+        <item>77, Tawny Frogmouth</item>
+        <item>78, Clouded Leopard</item>
+        <item>79, Magnificent Frigatebird </item>
+        <item>80, Tokay Gecko</item>
+        <item>81, Malaysian Horned Frog</item>
+        <item>82, Alligator Snapping Turtle</item>
+        <item>83, Cuckoo Bee</item>
+        <item>84, Barn Owl</item>
+        <item>85, Black-and-Gold Howler Monkey</item>
+        <item>86, Asian Elephant</item>
+        <item>87, Hyacinth Macaw</item>
+        <item>88, Bladder Cicada</item>
+        <item>89, Siamang</item>
+        <item>90, Power-Saw Cricket</item>
+        <item>91, Coqui Frog</item>
+        <item>92, Weddell Seal</item>
+        <item>93, Water Boatman</item>
+        <item>94, Oilbird</item>
+        <item>95, North Atlantic Right Whale</item>
+        <item>96, Tiger Pistol-shrimp</item>
+        <item>97, Whooping Crane</item>
+        <item>98, Mandrill</item>
+        <item>99, North American Elk </item>
+        <item>100, Black-Tailed Trainbearer</item>
+        <item>101, Western Lowland Gorilla</item>
+        <item>102, Blue Peafowl</item>
+        <item>103, Red-Capped Manakin</item>
+        <item>104, Blue Bird-of-Paradise</item>
+        <item>105, Capercaillie</item>
+        <item>106, Ring-Tailed Lemur</item>
+        <item>107, Common Teal</item>
+        <item>108, Costa Rican Tree-frog</item>
+    </string-array>
+</resources>
